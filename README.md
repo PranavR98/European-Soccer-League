@@ -11,3 +11,6 @@ With this, we should be able to ultimately determine what kind of players have t
 likelihood of standing out among other players. Keeping various such metrics in mind,
 we can come up with a model which can produce a tournament which will pair teams
 where the level of competition is higher.
+
+
+Attached here is the link to the dataset which we have used for this project: https://www.kaggle.com/datasets/hugomathien/soccer
